@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Ekhel/Natours/blob/master/images/backend/head.png" width="600px" /></p>
+<p align="center"><img src="https://github.com/Ekhel/Natours/blob/master/images/head.png" width="600px" /></p>
 <p align="center"><strong>Practice Node, Manipulate JSON file with File Sync, API, Midleware, routes, and controllers</strong></p>
 
 ----------------------------------------------------------------------------------------------------------------------
