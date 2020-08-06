@@ -1,1 +1,34 @@
-## Practical Node Manipulate JSON with File Streams
+<p align="center"><img src="https://github.com/Ekhel/Natours/blob/master/images/backend/head.png" width="600px" /></p>
+<p align="center"><strong>Practice Node, Manipulate JSON file with File Sync, API, Midleware, routes, and controllers</strong></p>
+
+----------------------------------------------------------------------------------------------------------------------
+
+## About The Practical :
+* **How to Call/Read JSON file on Node :**
+  - Read File JSON fs(FileStream) with FileSync
+  - export to View Function
+
+* **Works with Express (Best Framework bassed on NodeJS) :**
+  - Install nodemon (npm install nodemon --save)
+  - setting up nodemon to our app
+  - Install express (npm install express --save)
+  - Import Express to our app
+  - Setting up Local Port Server
+
+* **How to API works on Node** :
+  - function request and result
+  - Make Method GET request dan Result 
+  - Make Method GET Params request and Result (Param)
+  - Make Method POST request and Result
+  - Make Method PATCH request and Result
+  - Make Method DELETE request
+
+* **How to Routes work on Node:**
+  - Setting up Route use express
+  - Base Struktur Route on express
+
+* **How to use Third party Middleware or own:**
+  - Setting Up Middleware
+  - Install Third Party Middleware with Morgan
+  - Install Morgan (npn install morgan --save)
+  - exports Module
