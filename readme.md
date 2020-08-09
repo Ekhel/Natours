@@ -3,6 +3,28 @@
 
 ---
 
+## Requirements
+
+- Bahasa
+
+  - NodeJS (12.18.0)
+
+- Services
+
+  - Morgan (Midleware)
+  - express (Framework)
+
+- DBMS
+
+  - MongoDB
+  - Compass (GUI For MongoDB)
+  - Mongoose (Connector Schema)
+
+- Pre Host DB
+  - Atlas (AWS)
+
+---
+
 ## About The Practical :
 
 - **How to Call/Read JSON file on Node :**
