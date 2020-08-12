@@ -8,6 +8,7 @@
 - Bahasa
 
   - NodeJS (12.18.0)
+  - JSX
 
 - Services
 
@@ -18,7 +19,7 @@
 
   - MongoDB
   - Compass (GUI For MongoDB)
-  - Mongoose (Connector Schema)
+  - Mongoose (Connector Schema, Agregrations)
 
 - Pre Host DB
   - Atlas (AWS)
@@ -67,3 +68,13 @@
   - Connect our GUI Compass with Atlas DB
   - Connect our App With Atlas DB and Compas Localy GUI
   - Setting Up our App with Localy MongoDB Document
+
+* **Refactoring API Route**
+
+  - Refactor File for express Route
+  - Group endpoint Based on Route
+
+* **More Complex Filtering**
+  - Filter endpoint With JSX Callback Fungtion
+  - Filter endpoint With Mongo Operator
+  - Multiple Filter endpoint with Params
