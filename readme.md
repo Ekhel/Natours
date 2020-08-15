@@ -33,7 +33,7 @@
   - Read File JSON fs(FileStream) with FileSync
   - export to View Function
 
-- **Works with Express (Best Framework bassed on NodeJS) :**
+- **Works with Express (Framework bassed on NodeJS) :**
 
   - Install nodemon (npm install nodemon --save)
   - setting up nodemon to our app
@@ -75,6 +75,14 @@
   - Group endpoint Based on Route
 
 * **More Complex Filtering**
+
   - Filter endpoint With JSX Callback Fungtion
   - Filter endpoint With Mongo Operator
   - Multiple Filter endpoint with Params
+
+* **Modeling User Auth and Use JWT(jsonwebtoken)**
+  - Create Model for Users Login
+  - Create Function SignUp
+  - Create Function Login
+  - Use JWT for Token Authentication Login
+  - Use JWT for Protect the Route
