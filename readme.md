@@ -109,3 +109,4 @@
 * **More MongoDB data Modeling**
   - Modeling Location (Geospatial Data)
   - Populate Data user in Tours Model (guides)
+  - Modeling Query Object references
