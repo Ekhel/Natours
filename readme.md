@@ -21,7 +21,7 @@
   - Compass (GUI For MongoDB)
   - Mongoose (Connector Schema, Agregrations)
 
-- Pre Host DB
+- Pre Host Documents
   - Atlas (AWS)
 
 ---
@@ -81,8 +81,31 @@
   - Multiple Filter endpoint with Params
 
 * **Modeling User Auth and Use JWT(jsonwebtoken)**
+
   - Create Model for Users Login
   - Create Function SignUp
   - Create Function Login
   - Use JWT for Token Authentication Login
   - Use JWT for Protect the Route
+
+* **More Complex Authetication**
+
+  - Create Function Forgot Password
+  - Create Function Reset Password
+  - Reset Current User data
+  - Create Update Curent Password and Token
+  - Send Reset Token to email (Use Mailtrap)[https://mailtrap.io]
+  - Use the Nodemailer to setup incomming email server
+  - Reset Fungtion Done!
+
+* **Handle The Security (BEST PRACTICE)**
+
+  - Setting up Midleware use Limiiter
+  - Setting up Monggo Data sanitise for Auth Undefined
+  - Handle the Cross site scripting use xss-clean
+  - Sending jwt to cookie
+  - Handle Brute force & DDoS attact with hpp and helmet
+
+* **More MongoDB data Modeling**
+  - Modeling Location (Geospatial Data)
+  - Populate Data user in Tours Model (guides)
