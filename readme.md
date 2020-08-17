@@ -94,7 +94,7 @@
   - Create Function Reset Password
   - Reset Current User data
   - Create Update Curent Password and Token
-  - Send Reset Token to email (Use Mailtrap)[https://mailtrap.io]
+  - Send Reset Token to email [Tested Work Use Mailtrap](https://mailtrap.io)
   - Use the Nodemailer to setup incomming email server
   - Reset Fungtion Done!
 
@@ -104,9 +104,15 @@
   - Setting up Monggo Data sanitise for Auth Undefined
   - Handle the Cross site scripting use xss-clean
   - Sending jwt to cookie
-  - Handle Brute force & DDoS attact with hpp and helmet
+  - Handle Brute force & DDoS attackt with hpp and helmet
 
 * **More MongoDB data Modeling**
+
   - Modeling Location (Geospatial Data)
   - Populate Data user in Tours Model (guides)
   - Modeling Query Object references
+  - Populate data Query Object
+
+* **Nested Routes**
+  - Merge Routes
+  - Nested Routed
