@@ -114,5 +114,15 @@
   - Populate data Query Object
 
 * **Nested Routes**
+
   - Merge Routes
   - Nested Routed
+
+* **Advanced Postman Setting**
+
+  - Setting up postman for API Usefull
+  - Make Documentation of API with Postman
+
+* **Use Template Engine**
+  - Setting up template with pug
+  - Setting up base template and Content
