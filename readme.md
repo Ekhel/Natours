@@ -124,5 +124,10 @@
   - Make Documentation of API with Postman
 
 * **Use Template Engine**
+
   - Setting up template with pug
   - Setting up base template and Content
+
+* **Use Mapbox**
+  - Populate Coordinate use Mapbox
+  - Show the Coordinate in our Pages
