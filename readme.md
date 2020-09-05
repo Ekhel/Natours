@@ -60,7 +60,7 @@
     <tr>
       <td>Tours</td>
       <td>https://natours-middleware.herokuapp.com/api/v1/tours</td>
-      <td>POST</td>
+      <td>GET</td>
       <td>JSON Data</td>
     </tr>
   </tbody>
