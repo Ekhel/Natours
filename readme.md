@@ -33,6 +33,62 @@
 
 ---
 
+## Route API :
+
+<table>
+  <thead>
+    <tr>
+      <th>Route</th>
+      <th>Endpoind</th>
+      <th>Method</th>
+      <th>Calback</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User LogIn</td>
+      <td>https://natours-middleware.herokuapp.com/api/v1/user/login</td>
+      <td>POST</td>
+      <td>Token</td>
+    </tr>
+    <tr>
+      <td>User Register</td>
+      <td>https://natours-middleware.herokuapp.com/api/v1/user/signup</td>
+      <td>POST</td>
+      <td>JWT Token</td>
+    </tr>
+    <tr>
+      <td>Tours</td>
+      <td>https://natours-middleware.herokuapp.com/api/v1/tours</td>
+      <td>POST</td>
+      <td>JSON Data</td>
+    </tr>
+  </tbody>
+</table>
+
+- Postman Setup
+
+  - Register (RAW | JSON) BODY
+
+    ```javascript
+    {
+      "name": "Maria",
+      "email": "maria@gmail.com",
+      "password": "maria123",
+      "passwordConfirm": "maria123",
+    }
+    ```
+
+  - Login (RAW | JSON) BODY
+    ```javascript
+    {
+      "email": "maria@gmail.com",
+      "password": "maria123",
+    }
+    ```
+
+---
+
 ## About The Practical :
 
 - **How to Call/Read JSON file on Node :**
