@@ -4,7 +4,7 @@
   "description": "practice nodeJS monggo db",
   "main": "app.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "start:prod": "nodemon server.js"
   },
   "author": "Jonas",
